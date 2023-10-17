@@ -1,7 +1,10 @@
 
 <div align="center">
+<img src="https://github.com/sudolev/DynamicVillageMod/assets/61996958/6caf9942-5c2b-4d2e-b563-82b148a8fe9c" width=200>
+
+  
   <h1>Create: Dynamic Village</h1>
-   <img src="https://img.shields.io/badge/available%20for-1.19.2‒1.20.2-992333" alt="available for 1.19.2-1.20.2">
+   <img src="https://img.shields.io/badge/available%20for-1.19.2-992333" alt="available for 1.19.2‒1.20.2">
    <img src="https://img.shields.io/badge/modloaders-Forge%20%26%20NeoForge-992333" alt="modloaders forge/neoforge">
    <img alt="required on client & server" src="https://img.shields.io/badge/required%20on-client%20%26%20server-992333">
 
@@ -10,9 +13,15 @@
 
 ### Create: Dynamic Village is an expansion to Create that adds a fully-featured host of Create-mod village structures & professions.
 
+---
+
+</div>
 
 
-## Villagers
+# List of Features
+
+
+### Villagers
 
 **Mechanical Engineer**
 
@@ -32,21 +41,21 @@
 
 ## Plains, savanna, desert, taiga, and snowy village buildings
 
-**Watermill (Spawns Mechanical Engineer)**
+- **Watermill (Spawns Mechanical Engineer)**
 
-**Plumber's House (Spawns Hydraulic Engineer)**
+- **Plumber's House (Spawns Hydraulic Engineer)** (WIP)
 
-**Railyard (Spawns Train Mechanic)**
+- **Railyard (Spawns Train Mechanic)** (WIP)
 
-**Mining Camp (Spawns Miner)**
+- **Mining Camp (Spawns Miner)**
 
-**Ferris Wheel**
+- **Ferris Wheel** (WIP)
 
 # Contributing
 
 ### Bug reports, suggestions, and ideas
 
-All of the above are incredibly useful and much appreciated. A GitHub issue or dm on discord (@alexandsr) are both good ways to get in contact.
+Bug reports, suggestions, and ideas are incredibly useful and much appreciated. A GitHub issue or is a good way to get in contact.
 
 ### Translating
 
