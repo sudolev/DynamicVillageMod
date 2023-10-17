@@ -8,6 +8,7 @@
    <img src="https://img.shields.io/badge/modloaders-Forge%20%26%20NeoForge-992333" alt="modloaders forge/neoforge">
    <img alt="required on client & server" src="https://img.shields.io/badge/required%20on-client%20%26%20server-992333">
 
+
    <a href="https://curseforge.com/minecraft/mc-mods/dynamic-village"><img src="https://cf.way2muchnoise.eu/919759.svg" alt="curseforge"></a>
    <a href="https://modrinth.com/mod/dynamic-village"><img src="https://img.shields.io/modrinth/dt/YCPmkFAm?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="modrinth"></a>
 
