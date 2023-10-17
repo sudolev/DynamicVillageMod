@@ -59,9 +59,9 @@ Bug reports, suggestions, and ideas are incredibly useful and much appreciated. 
 
 ### Translating
 
-Translation help is really appreciated. The best way to do so is to make a Git pull request with the translated lang file.
+Translation help is really appreciated. The best way to do so is to make a Git pull request or issue with the translated lang file.
 
-I have translated the mod from English into German and Swedish. All other languages are available for translation.
+**Many thanks to [@EDGW](https://github.com/EDGW) for translating Dynamic Village to Chinese (Simplified).** 🎉
 
 ---
 
