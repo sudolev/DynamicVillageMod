@@ -13,10 +13,9 @@
 
 ### Create: Dynamic Village is an expansion to Create that adds a fully-featured host of Create-mod village structures & professions.
 
----
+![banner](https://github.com/sudolev/DynamicVillageMod/assets/61996958/40b915c2-4707-4376-a1c0-5ec6a5a55bcc)
 
 </div>
-
 
 # List of Features
 
