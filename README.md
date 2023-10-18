@@ -70,7 +70,7 @@ Translation help is really appreciated. The best way to do so is to make a Git p
    <h3>Find Dynamic Village on <a href="https://modrinth.com/mod/dynamic-village"><span style="margin-top:6px"><img src="https://raw.githubusercontent.com/alexandsr/BellsAndWhistlesMod/main/.assets/modrinth.webp" width="16"></span> Modrinth</a> or <a href="https://curseforge.com/minecraft/mc-mods/dynamic-village"><span style="padding:5px"><img src="https://raw.githubusercontent.com/alexandsr/BellsAndWhistlesMod/9f44e0cb812b00da5d1c60eb691efb9f69761cb3/.assets/curseforge.svg" width="18"></span> CurseForge</a>
 <br><br>
    
-Report Issues <a href="https://github.com/alexandsr/DynamicVillageMod/issues">here</a></h3>
+Report Issues <a href="https://github.com/sudolev/DynamicVillageMod/issues">here</a></h3>
 </div>
 <!--https://github.com/alexandsr/BellsAndWhistlesMod/assets/61996958/154e2b0b-5df7-4e7e-83c2-0d08a36e535d-->
 
