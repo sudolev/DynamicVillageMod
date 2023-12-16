@@ -12,9 +12,10 @@
    <a href="https://curseforge.com/minecraft/mc-mods/dynamic-village"><img src="https://cf.way2muchnoise.eu/919759.svg" alt="curseforge"></a>
    <a href="https://modrinth.com/mod/dynamic-village"><img src="https://img.shields.io/modrinth/dt/YCPmkFAm?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="modrinth"></a>
 
-### Create: Dynamic Village is an expansion to Create that adds a fully-featured host of Create-mod village structures & professions.
 
-![banner](https://github.com/sudolev/DynamicVillageMod/assets/61996958/40b915c2-4707-4376-a1c0-5ec6a5a55bcc)
+<h3>Create: Dynamic Village is an expansion to Create that adds a fully-featured host of Create-mod village structures & professions.</h3>
+
+<img src="https://github.com/sudolev/DynamicVillageMod/assets/61996958/40b915c2-4707-4376-a1c0-5ec6a5a55bcc">
 
 </div>
 
