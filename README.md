@@ -5,7 +5,7 @@
   
   <h1>Create: Dynamic Village</h1>
    <img src="https://img.shields.io/badge/available%20for-1.19.2-992333" alt="available for 1.19.2‒1.20.2">
-   <img src="https://img.shields.io/badge/modloaders-Forge%20%26%20NeoForge-992333" alt="modloaders forge/neoforge">
+   <img src="https://img.shields.io/badge/modloaders-Forge-992333" alt="modloaders forge/neoforge">
    <img alt="required on client & server" src="https://img.shields.io/badge/required%20on-client%20%26%20server-992333">
 
 
