@@ -61,7 +61,11 @@ Bug reports, suggestions, and ideas are incredibly useful and much appreciated. 
 
 Translation help is really appreciated. The best way to do so is to make a Git pull request or issue with the translated lang file.
 
-**Many thanks to [@EDGW](https://github.com/EDGW) for translating Dynamic Village to Chinese (Simplified).** 🎉
+**Thanks to [@EDGW](https://github.com/EDGW) for translating Dynamic Village to Chinese (Simplified).** 🎉
+
+**Thanks to [Khao](https://github.com/Khaogamermain01) for translating Dynamic Village to Thai.** 🎉
+
+**Thanks to [@RemVan](https://github.com/RemVan) for translating Dynamic Village to Russian.** 🎉
 
 ---
 
